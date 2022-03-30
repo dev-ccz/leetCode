@@ -2,6 +2,7 @@ package zcc._2.code;
 
 /**
  * @author zcc  2022/3/30 16:24
+ *
  */
 public class Solution_2 {
 
