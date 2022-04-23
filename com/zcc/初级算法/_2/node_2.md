@@ -9,7 +9,7 @@
 
 ### 下面是这道题的其他解法：
 
-参考 [leetCode解答][https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution/tan-xin-suan-fa-by-liweiwei1419-2/]
+参考 [leetCode解答][https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/solution7/tan-xin-suan-fa-by-liweiwei1419-2/]
 
 #### 1.暴力搜索
 
