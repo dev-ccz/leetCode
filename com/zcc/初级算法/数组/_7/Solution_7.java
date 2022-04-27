@@ -1,4 +1,4 @@
-package zcc.初级算法._7;
+package zcc.初级算法.数组._7;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package zcc.初级算法._3;
-
-import com.sun.tools.javac.Main;
+package zcc.初级算法.数组._3;
 
 import java.util.Arrays;
 

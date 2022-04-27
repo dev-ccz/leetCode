@@ -1,4 +1,4 @@
-package zcc.初级算法._4;
+package zcc.初级算法.数组._4;
 
 import java.util.HashSet;
 import java.util.Set;

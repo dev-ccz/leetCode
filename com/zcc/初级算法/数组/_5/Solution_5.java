@@ -1,4 +1,4 @@
-package zcc.初级算法._5;
+package zcc.初级算法.数组._5;
 
 /**
  * @author zcc  2022/4/11 22:18

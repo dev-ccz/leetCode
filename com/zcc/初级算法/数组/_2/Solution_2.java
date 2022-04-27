@@ -1,6 +1,4 @@
-package zcc.初级算法._2;
-
-import java.lang.invoke.VarHandle;
+package zcc.初级算法.数组._2;
 
 /**
  * @author zcc  2022/4/9 18:51
