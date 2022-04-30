@@ -10,6 +10,7 @@ public class Solution_3 {
     public static void main(String[] args) {
         Solution_3 solution_3 = new Solution_3();
         solution_3.rotate(new int[]{1,2,3,4,5,6,7},3);
+        solution_3.rotate1(new int[]{1,2,3,4,5,6,7},3);
         System.out.println(5%2);
         solution_3.rotate2(new int[]{1,2,3,4,5,6,7},3);
     }
